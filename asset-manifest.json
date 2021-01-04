@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/seinfeld-memo/static/css/main.8417766c.chunk.css",
+    "main.js": "/seinfeld-memo/static/js/main.b7fc43ec.chunk.js",
+    "main.js.map": "/seinfeld-memo/static/js/main.b7fc43ec.chunk.js.map",
+    "runtime-main.js": "/seinfeld-memo/static/js/runtime-main.eecca809.js",
+    "runtime-main.js.map": "/seinfeld-memo/static/js/runtime-main.eecca809.js.map",
+    "static/js/2.105e5a47.chunk.js": "/seinfeld-memo/static/js/2.105e5a47.chunk.js",
+    "static/js/2.105e5a47.chunk.js.map": "/seinfeld-memo/static/js/2.105e5a47.chunk.js.map",
+    "index.html": "/seinfeld-memo/index.html",
+    "static/css/main.8417766c.chunk.css.map": "/seinfeld-memo/static/css/main.8417766c.chunk.css.map",
+    "static/js/2.105e5a47.chunk.js.LICENSE.txt": "/seinfeld-memo/static/js/2.105e5a47.chunk.js.LICENSE.txt",
+    "static/media/logo.7ee9e84f.jpg": "/seinfeld-memo/static/media/logo.7ee9e84f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eecca809.js",
+    "static/js/2.105e5a47.chunk.js",
+    "static/css/main.8417766c.chunk.css",
+    "static/js/main.b7fc43ec.chunk.js"
+  ]
+}
